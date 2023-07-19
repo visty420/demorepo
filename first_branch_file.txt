@@ -1,2 +1,4 @@
 first branch text file 
 text from master branch
+text from second_branch
+
